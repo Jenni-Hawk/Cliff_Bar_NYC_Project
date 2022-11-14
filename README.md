@@ -24,8 +24,7 @@ Analyze two different time periods:
 - Rationale: Look at data when Omicron is at it its lowest level to get the most current ridership behavior to inform upcoming marketing initiatives.
 
 #### Pre-Covid vs emerging Post Covid Analysis Window: Feb 2020 vs Feb 2022 
-Rationale: February 2020 No Covid.  February 2022 Omicron at lowest point.
-Compare and contrast pre vs post covid behaviors. What does ridership look like in Feb 2022 versus before Covid? 
+- Rationale: February 2020 No Covid.  February 2022 Omicron at lowest point. Compare and contrast pre vs post covid behaviors. What does ridership look like in Feb 2022 versus before Covid? 
 
 
 
