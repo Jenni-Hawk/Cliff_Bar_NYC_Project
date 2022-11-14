@@ -18,6 +18,17 @@ With the push in NYC to physically go back to work, Cliff Bar wants to be the to
 	- Are they within walking distance?
 - How does the reporting period compare against a pre-Covid timeframe?
 
+# Design
+Analyze two different time periods:
+#### Opportunity Analysis Window: 1/29/22 - 3/19/22
+- Rationale: Look at data when Omicron is at it its lowest level to get the most current ridership behavior to inform upcoming marketing initiatives.
+
+#### Pre-Covid vs emerging Post Covid Analysis Window: Feb 2020 vs Feb 2022 
+Rationale: February 2020 No Covid.  February 2022 Omicron at lowest point.
+Compare and contrast pre vs post covid behaviors. What does ridership look like in Feb 2022 versus before Covid? 
+
+
+
 # Tools Used
 Pandas: connect to local database via SQLAlchemy, data manipulation, time series / date functionality
 Matplotlib: data visualization
