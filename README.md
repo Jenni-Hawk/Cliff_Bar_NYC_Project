@@ -1,7 +1,7 @@
 # Cliff_Bar_NYC_Project
 #### Cliff Bar NYC Subway Sampling Opportunity Analysis
 - This was my first data science project with Metis. 
-- This mock project for Cliff Bars was designed to showcase my exploratory data analysis knowledge, technical knowledge, and strength in storytelling. 
+- This mock project for Cliff Bar was designed to showcase my exploratory data analysis knowledge, technical knowledge, and strength in storytelling. 
 
 
 # Client / Background
