@@ -37,17 +37,21 @@ Utilized the following data sources:
 # Technical Methodology
 Three technical workflows were established:
 
-1. MTA Station Volume + Highest Commuter Days 
-2. - Read in MTA csv data via Pandas and SQLAlchemy 	- Utilized Pandas to manipulate data and Matplotlib to visualize data 
-3. Duane Reade locations filtered by top MTA locations 	- Read in Duane Reed location data into Pandas 
-	   (contains zip code and lat/long data) 	- Removed non-relevant columns to make it simpler to upload to 
-	  Google Maps for location plotting 	- Filtered Duane Reed data by the zip codes of the top MTA stations 	- Exported .csv that contained lat/long for all Duane Reades within top MTA 			  footprint 	- Uploaded .csv to Google Maps for plotting
+#### MTA Station Volume + Highest Commuter Days 
+- Read in MTA csv data via Pandas and SQLAlchemy	
+- Utilized Pandas to manipulate data and Matplotlib to visualize data 
+#### Duane Reade locations filtered by top MTA locations	
+- Read in Duane Reed location data into Pandas (contains zip code and lat/long data)	
+- Removed non-relevant columns to make it simpler to upload to Google Maps for location plotting	
+- Filtered Duane Reed data by the zip codes of the top MTA stations	
+- Exported .csv that contained lat/long for all Duane Reades within top MTA footprint	
+- Uploaded .csv to Google Maps for plotting
 
-3. Pre-Covid vs Post Covid  - Read in MTA csv data via Pandas and SQLAlchemy - Utilized Pandas to manipulate data and Matplotlib to visualize data
-
-
-
+#### Pre-Covid vs Post Covid 
+- Read in MTA csv data via Pandas and SQLAlchemy 
+- Utilized Pandas to manipulate data and Matplotlib to visualize data
 
 # Tools Used
-Pandas: connect to local database via SQLAlchemy, data manipulation, time series / date functionality
-Matplotlib: data visualization
+- Pandas: data manipulation, time series / date functionality
+- SQLAlchemy: to connect to local database
+- Matplotlib: data visualization
