@@ -1,8 +1,10 @@
 # Cliff_Bar_NYC_Project
-Cliff Bar and NYC Subway Sampling Initiative
+#### Cliff Bar NYC Subway Sampling Opportunity Analysis
+- This was my first data science project with the Metis. 
+- This mock project for Cliff Bars was designed to showcase my exploratory data analysis knowledge, technical knowledge, and strength in storytelling. 
 
-This is my first data science project via the Metis Exploratory Data Analysis module that's part of the larger data science program. 
 
+# Client / Background
 This mock project for Cliff Bars was designed to showcase my exploratory data analysis knowledge, technical knowledge, and strength in data storytelling.
 
 With the push in NYC to physically go back to work, Cliff Bar wants to be the top-of-mind brand in NYC associated with giving people the energy they need to get back to normal. 
