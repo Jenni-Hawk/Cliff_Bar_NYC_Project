@@ -2,6 +2,7 @@
 #### Cliff Bar NYC Subway Sampling Opportunity Analysis
 - This was my first data science project with Metis and my first time using Pandas and other tools.
 - The goals of this project were to be immersed in exploratory data analysis, gain fluency in Pandas and other tools, and show my strength in data storytelling. 
+- While my Python / Pandas skills have greatly improved from the time of this project, I leave this project in my portfolio because the insights obtained from this project are strong. 
 
 
 # Client / Background
